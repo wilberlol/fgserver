@@ -1,0 +1,21 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/quartz"
+    },
+    "overrides": [
+        {"predicate":{"custom_model_data":1},"model":"qualityarmory:hat/pig"},
+        {"predicate":{"custom_model_data":2},"model":"qualityarmory:hat/crown"},
+        {"predicate":{"custom_model_data":3},"model":"qualityarmory:hat/squid"},
+        {"predicate":{"custom_model_data":4},"model":"qualityarmory:hat/nursecap"},
+        {"predicate":{"custom_model_data":5},"model":"qualityarmory:hat/headphones"},
+        {"predicate":{"custom_model_data":6},"model":"qualityarmory:hat/purpleheadphones"},
+        {"predicate":{"custom_model_data":7},"model":"qualityarmory:hat/firemanhat"},
+        {"predicate":{"custom_model_data":8},"model":"qualityarmory:hat/policehat"},
+        {"predicate":{"custom_model_data":9},"model":"qualityarmory:hat/steampunk"},
+        {"predicate":{"custom_model_data":10},"model":"qualityarmory:hat/astronauthelmet"},
+        {"predicate":{"custom_model_data":11},"model":"qualityarmory:hat/wolfhead"},
+        {"predicate":{"custom_model_data":12},"model":"qualityarmory:hat/chicken"}
+
+	]
+}
